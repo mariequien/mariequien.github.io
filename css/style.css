@@ -1121,7 +1121,14 @@ Exclusively available here: https://themeforest.net/user/fourtabsthemes
 		padding-bottom: 150px;
 		
 	}
-	
+
+	#header-02{
+		position: relative;
+		padding-top: 150px;
+		padding-bottom: 70px;
+		
+	}
+
 	.big-text-full h2{
 		max-width: 800px;
 	}
@@ -1352,13 +1359,14 @@ Exclusively available here: https://themeforest.net/user/fourtabsthemes
 	
 	#about{
 		position: relative;
-		padding-bottom: 150px;
+		padding-bottom: 90px;
 		background: #fff;
 	}
 
 
 	.brief{
-		margin-top: 50px;
+		margin-top: 0px;
+		margin-bottom: 60px;
 	}
 	
 	.brief-04{
@@ -1537,11 +1545,11 @@ Exclusively available here: https://themeforest.net/user/fourtabsthemes
 		transition: all 0.4s;
 		overflow: hidden;
 
-		filter: grayscale(0.08) opacity(0.9);
-		-webkit-filter: grayscale(0.08) opacity(0.9);
-		-moz-filter: grayscale(0.08) opacity(0.9);
-		-o-filter: grayscale(0.08) opacity(0.9);
-		-ms-filter: grayscale(0.08) opacity(0.9);
+		filter: grayscale(0.12) opacity(0.9);
+		-webkit-filter: grayscale(0.12) opacity(0.9);
+		-moz-filter: grayscale(0.12) opacity(0.9);
+		-o-filter: grayscale(0.12) opacity(0.9);
+		-ms-filter: grayscale(0.12) opacity(0.9);
 		-webkit-transition: all 0.4s ease-in-out;
 	    -moz-transition: all 0.4s ease-in-out;
 	    -o-transition: all 0.4s ease-in-out;
